@@ -14,4 +14,4 @@ Speaking of skills, as I used to write content on global websites, I have fluenc
 
 However, I'm quite weak at communicating with others, but I'm working on it. After investing some time, I'm better than how I was 2 years ago, but there's always enough room to grow. I'm currently learning new things and wandering around the tech world.
 
-Currently, I'm more active on [Instagram](https://instagram.com/being_sakeef/){:target="_blank"} & [Facebook](https://facebook.com/being.sakeef/){:target="_blank"}. I'm always open for collaborations and exciting conversions about almost anything.
+Currently, I'm more active on [Instagram](https://instagram.com/being_sakeef/){:target="_blank"}. I'm always open for collaborations and exciting conversions about almost anything.
