@@ -7,6 +7,4 @@ description: Hello World
 # image: /path/to/image
 ---
 
-# Hello World!
-
 The site is still under construction. Please wait a while until it's ready

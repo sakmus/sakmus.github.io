@@ -14,9 +14,9 @@ timezone: Asia/Dhaka
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Sakeef Mushfique # the main title
+title: Sakeef # the main title
 
-tagline: Student | Writer | Programmer # it will display as the sub-title
+tagline: Tech enthusiast # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Sakeef's personal blog for posting works, articles and a few of my literray works. Feel free to wander around the site. Happy coding!
@@ -96,7 +96,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://pbs.twimg.com/profile_images/1795601804798881792/7DRAixXn_400x400.jpg
+avatar: https://avatars.githubusercontent.com/u/94451911?v=4
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
