@@ -5,7 +5,7 @@ categories: [Programming, Backend, Python]
 tags: [python, programming, backend, wolframalpha]
 description: Reason behind building this web-app and the odds I faced from the beginning
 image: 
-    path: https://images2.imgbox.com/0c/36/CJvmTZEx_o.png
+    path: https://camo.githubusercontent.com/9762e200c220dbfce8eb56bb56f2103aa0d8bb23330e214fcdfea817da324ca4/68747470733a2f2f696d61676573322e696d67626f782e636f6d2f34312f38372f30563464346c62325f6f2e706e67
     alt: A screenshot of Somadhan web interface
 ---
 
