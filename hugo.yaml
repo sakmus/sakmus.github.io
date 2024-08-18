@@ -115,18 +115,18 @@ outputs:
 
 menu:
   main:
-    - identifier: projects
-      name: Projects
-      url: /projects/
-      weight: 10
+    # - identifier: projects
+    #   name: Projects
+    #   url: /projects/
+    #   weight: 10
     - identifier: newsletter
       name: Newsletter
       url: "https://sakeef.substack.com/"
       weight: 30
-    - identifier: search
-      url: /search/
-      name: Search
-      weight: 20
+    # - identifier: search
+    #   url: /search/
+    #   name: Search
+    #   weight: 20
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
